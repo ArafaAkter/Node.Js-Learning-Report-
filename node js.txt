@@ -1,0 +1,19 @@
+*** Node js
+    -> javascript run time.
+    -> server environment.
+    -> free open source.
+    -> run in various platforms.
+
+***Why node.js?
+     -> use asynchronous programming.
+     -> it can help us create,open,read,write,delete,close file on the server.
+     -> Node.js can add,delete,modify,data in your database.
+
+*** Node.js Modules
+    -> Module is a set of functions.
+    -> three types of Module
+
+        ->local.
+        ->built-in(http,url,path,fs).node js own modules.no need to install.
+        ->external.(managed by npm).
+
